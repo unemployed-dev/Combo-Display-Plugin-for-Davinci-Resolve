@@ -1,5 +1,5 @@
 # Combo-Display-Plugin-for-Davinci-Resolve
-Reads filenames to automatically insert combo notation images onto recorded clips, or allows combos to be typed in the editor.
+Reads filenames to automatically generate and insert instruction images onto recorded clips, or allows combos to be typed in the editor.
 
 Demo: https://youtu.be/uTljc4M065A
 
